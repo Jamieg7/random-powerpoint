@@ -1,6 +1,8 @@
-# Random PowerPoint Generator
+# Zeroshot PowerPoint Generator
 
-A vibecoded Python script that generates random educational PowerPoint presentations on the fly. Every line of code and this description written by AI. Perfect for practicing your presentation skills by forcing you to present on topics you've never researched before - true zero-shot presentation practice! 🎯
+A vibecoded Python script that generates random educational PowerPoint presentations on the fly. Perfect for practicing your presentation skills by forcing you to present on topics you've never researched before - true zero-shot presentation practice! 🎯
+
+Everything except this sentance written by AI.
 
 ## Features
 
